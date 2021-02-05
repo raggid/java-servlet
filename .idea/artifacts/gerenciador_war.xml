@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="gerenciador:war">
+    <output-path>$PROJECT_DIR$/build/classes/artifacts/gerenciador_war</output-path>
+    <root id="archive" name="gerenciador_war.war" />
+  </artifact>
+</component>
